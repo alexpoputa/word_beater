@@ -1,0 +1,27 @@
+html,body {
+    height: 100%;
+}
+
+body {
+    background: url('../img/a1.jpeg');
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title {
+    margin-top: 35px;
+    margin-bottom: 60px;
+    font-size: 70px;
+}
+
+
+#instDiv {
+    margin-top: 5%;
+}
+
+#word-input {
+    color: #fff;
+}
+
+
+
