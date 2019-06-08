@@ -3,8 +3,9 @@ WORD BEATER
 
 ### About
 Typing Word Beater project.
+
 ### Built With
-HTLM/CSS3/JS
+HTML5/Bootstrap/jQuery
 
 ### Authors
 Poputa Alexandru
