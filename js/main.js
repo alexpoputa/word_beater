@@ -5,7 +5,7 @@ const levels = {
   hard: 3
 };
 
-let currentLevel = levels.easy;
+let currentLevel = levels.medium;
 
 // Globals
 let time = currentLevel;
