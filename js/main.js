@@ -152,7 +152,11 @@ $(document).ready(function () {
   // Check game status
   function checkStatus() {
     if (!isPlaying && time === 0) {
-      message.html("Game over!You completed " + score + " words!");
+      if(score == 1) {
+        message.html("Game over! You completed 1 word!");
+      }else if(score < 1 || score > 1) {
+        message.html("Game over! You completed " + score + " words!");
+      }
     }
   }
 });
